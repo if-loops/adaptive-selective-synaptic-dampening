@@ -9,3 +9,17 @@ This is the code for the error unlearning part of the paper preprint **[Paramete
 The adaptive extension can be added to the original SSD paper and runs using the same packages/dependencies: https://github.com/if-loops/selective-synaptic-dampening/blob/main/README.md
 
 ![Forget_wide](https://github.com/if-loops/adaptive-selective-synaptic-dampening/assets/47212405/8cb1c8c4-faf8-4642-8d51-11bed2e75b9a)
+
+
+### Citation
+
+```
+@misc{schoepfASSD,
+author = {Schoepf, Stefan and Foster, Jack and Brintrup, Alexandra},
+year = {2024},
+month = {02},
+pages = {},
+title = {Parameter-Tuning-Free Data Entry Error Unlearning with Adaptive Selective Synaptic Dampening},
+doi = {10.13140/RG.2.2.10820.81286}
+}
+```
