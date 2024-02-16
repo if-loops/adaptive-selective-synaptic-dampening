@@ -14,12 +14,12 @@ The adaptive extension can be added to the original SSD paper and runs using the
 ### Citation
 
 ```
-@misc{schoepfASSD,
-author = {Schoepf, Stefan and Foster, Jack and Brintrup, Alexandra},
-year = {2024},
-month = {02},
-pages = {},
-title = {Parameter-Tuning-Free Data Entry Error Unlearning with Adaptive Selective Synaptic Dampening},
-doi = {10.13140/RG.2.2.10820.81286}
+@misc{schoepf2024parametertuningfree,
+      title={Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening}, 
+      author={Stefan Schoepf and Jack Foster and Alexandra Brintrup},
+      year={2024},
+      eprint={2402.10098},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
